@@ -15,8 +15,8 @@ Currently, it has 5 channels:
 - [The Bottom Of The Void - ARG Soundtrack](https://www.youtube.com/@TBOTV-ost)
 
 This ARG currently has 2 Acts:
-- [Void Experiments](Act1_VoidExperiments.html)
-- ["Nguyen"](Act2_Nguyen.html)
+- [Void Experiments](Act1_VoidExperiments)
+- ["Nguyen"](Act2_Nguyen)
 
 To get into the ARG, it is recommanded to watch RetroGamingNow's video about Act 1:
 
