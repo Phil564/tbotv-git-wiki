@@ -4,6 +4,21 @@ published: true
 
 # ?yoUjusTdonTknoW
 
+<infobox type="Episode">
+	<title source="title"/>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/EOt5IQI3VlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<data source="channel"><label>Channel: mark101</label></data>
+	<data source="videoType"><label>Video type: Public</label></data>
+	<data source="link"><label>Link: [https://www.youtube.com/watch?v=EOt5IQI3VlY](https://www.youtube.com/watch?v=EOt5IQI3VlY)</label></data>
+	<data source="actNumber"><label>Act: 1</label></data>
+	<data source="episodeNumber"><label>Episode: 1</label></data>
+	<data source="publishDate"><label>Publish date: October 23, 2021</label></data>
+	<group layout="horizontal">
+	    <header>Episode guide</header>
+	    <data source="nextEpisode"><label>Next: [moonglitch.avi](moonglitch.avi.html)</label></data>
+	</group>
+</infobox>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EOt5IQI3VlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
