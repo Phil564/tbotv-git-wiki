@@ -32,5 +32,16 @@ file last modified: 7-23-2010
 - [6:07](https://youtu.be/EOt5IQI3VlY?t=367): Render distances gradually changes to Tiny and strange noises start playing.
 - [6:17](https://youtu.be/EOt5IQI3VlY?t=377): Video cuts off
 
-## Trivia
-- This was previously called "unused0"
+## Original Video
+This channel once had a different title and description.
+
+### Original Title
+unused0
+
+### Original Description
+file last modified: 7-23-2010
+<br><br>Why are you making less minecraft videos?
+<br><br>Im getting freaked out, ill show you more footage.
+<br><br>What is that sound?
+<br><br>I dont know, maybe a new cave sound, I think if I reinstall Minecraft it will stop acting weird.
+<br><br>Good idea.
