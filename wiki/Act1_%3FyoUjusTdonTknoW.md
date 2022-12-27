@@ -3,9 +3,16 @@ published: true
 ---
 
 # ?yoUjusTdonTknoW
-| Post Date  | Channel | Minecraft Version      | Length  | FPS | Resolution | Video type | Act | Episode | Source |
-| ---------  | ------- | ---------------------- | ------- | --- | ---------- | ---------- | --- | ------- | ------ |
-| 2021-10-23 | mark101 | Minecraft Alpha v1.0.7 | 6:29:70 | 30  | 1920x1020  | Public     | 1   | 1       | [Link](https://www.youtube.com/watch?v=EOt5IQI3VlY)   |
+Post Date : 2021-10-23
+Channel: mark101
+Minecraft Version: Minecraft Alpha v1.0.7
+Length: 6:29
+FPS: 30
+Resolution: 1920x1020
+Video type: Public 
+Act: 1
+Episode: 1
+Source: [Link](https://www.youtube.com/watch?v=EOt5IQI3VlY)
 
 ## Video
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EOt5IQI3VlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
