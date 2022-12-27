@@ -3,16 +3,16 @@ published: true
 ---
 
 # moonglitch.avi
-Post Date : 2021-10-23
-Channel: mark101
-Minecraft Version: Minecraft Alpha v1.0.7
-Length: 3:38
-FPS: 30
-Resolution: 854x454
-Video type: Public 
-Act: 1
-Episode: 2
-Source: [Link](https://www.youtube.com/watch?v=0qkh6vredyo)
+**Post Date** : 2021-10-23
+<br>**Channel**: [mark101](channel_mark101)
+<br>**Minecraft Version**: Minecraft Alpha v1.0.7
+<br>**Length**: 3:38
+<br>**FPS**: 30
+<br>**Resolution**: 854x454
+<br>**Video type**: Public 
+<br>**Act**: 1
+<br>**Episode**: 2
+<br>**Source**: [Link](https://www.youtube.com/watch?v=0qkh6vredyo)
 
 ## Video
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0qkh6vredyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

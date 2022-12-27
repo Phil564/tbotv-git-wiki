@@ -2,7 +2,7 @@
 published: true
 ---
 
-# "Nguyen" (Act 1)
+# "Nguyen" (Act 2)
 
 "Nguyen" is the second Act in "The Bottom of the Void". It started on October 26, 2022 and hasn't ended yet. This Act only has 20 episodes yet. This Act is also in 3 parts like Act 1, but it isn't clear which episodes here are in which Act.
 

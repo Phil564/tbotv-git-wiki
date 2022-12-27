@@ -8,15 +8,17 @@ published: true
 **The Bottom Of The Void** is a Minecraft ARG that spans multiple YouTube channels.
 
 Currently, it has 5 channels:
-- [mark101](https://www.youtube.com/@unintelligible-synapse)
-- [ꕚ](https://www.youtube.com/@user-gp8tw1rs2g)
-- [JamiePlayzMC](https://www.youtube.com/@jamieplayzmc8202)
-- [The Let's Play Archive](https://www.youtube.com/@tlpa)
-- [The Bottom Of The Void - ARG Soundtrack](https://www.youtube.com/@TBOTV-ost)
+- [mark101](channel_mark101)
+- [ꕚ](channel_ꕚ)
+- [JamiePlayzMC](channel_JamiePlayzMC)
+- [The Let's Play Archive](channel_tlpa)
+- [The Bottom Of The Void - ARG Soundtrack](channel_TBOTV-ost)
 
 This ARG currently has 2 Acts:
 - [Void Experiments](Act1_VoidExperiments)
 - ["Nguyen"](Act2_Nguyen)
+
+Act 2 is currently unfinished.
 
 To get into the ARG, it is recommanded to watch RetroGamingNow's video about Act 1:
 

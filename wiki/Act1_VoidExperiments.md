@@ -4,11 +4,11 @@ published: true
 
 # Void Experiments (Act 1)
 
-Void Experiments is the first Act in "The Bottom of the Void". It started on October 23, 2021 and ended on October 23, 2022. This Act is separated in 3 channels: [mark101](mark101_channel), [ꕚ](ꕚ_channel) and [JamiePlayzMC](JamiePlayzMC_channel), and has 50 episodes.
+Void Experiments is the first Act in "The Bottom of the Void". It started on October 23, 2021 and ended on October 23, 2022. This Act is separated in 3 channels: [mark101](channel_mark101), [ꕚ](channel_ꕚ) and [JamiePlayzMC](channel_JamiePlayzMC), and has 50 episodes.
 
 ## Episodes
 ### Part 1
-01. [?yoUjusTdonTknoW](Act1_%3FyoUjusTdonTknoW)
+01. [?yoUjusTdonTknoW](Act1_%253FyoUjusTdonTknoW)
 02. [moonglitch.avi](Act1_moonglitch.avi)
 03. [DIAMOND OVERLOAD!!!!!](Act1_DIAMONDOVERLOAD)
 04. [unused1](Act1_unused1)
