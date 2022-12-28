@@ -22,15 +22,17 @@ Void Experiments is the first Act in "The Bottom of the Void". It started on Oct
 11. [High quality version of Void Footage](Act1_HighqualityversionofVoidFootage)
 12. [the investigation part 1 (fixed reupload)](Act1_theinvestigationpart1fixedreupload)
 13. [the investigation part 4](Act1_theinvestigationpart4)
-14. [in my home collage](Act1_inmyhomecollage)
-15. [world4 is good, world3 is bad.](Act1_world4isgoodworld3isbad)
-16. [instructed](Act1_instructed)
+14. [outside of the skybox lies the ultimate truth of th](Act1_outsideoftheskyboxliestheultimatetruthofth)
+15. [in my home collage](Act1_inmyhomecollage)
+16. [world4 is good, world3 is bad.](Act1_world4isgoodworld3isbad)
 17. [third world](Act1_thirdworld)
-18. [outside of the skybox lies the ultimate truth of th](Act1_outsideoftheskyboxliestheultimatetruthofth)
+18. [instructed](Act1_instructed)
 19. [unused3](Act1_unused3)
 20. [Minecraft VoidExp v0.0.1 - calm5.ogg](Act1_MinecraftVoidExpv0.0.1calm5.ogg)
 
+
 ### Part 2
+
 21. [demo01](Act1_demo01)
 22. [demo01](Act1_demo02)
 23. [VoidExp](Act1_VoidExp)
@@ -42,14 +44,16 @@ Void Experiments is the first Act in "The Bottom of the Void". It started on Oct
 29. [Revolt](Act1_Revolt)
 30. [What happened after the attacks on the moon?](Act1_Whathappenedaftertheattacksonthemoon)
 31. [00071](Act1_00071)
-32. [Talking with spire ended shortly](Act1_Talkingwithspireendedshortly)
-33. [missing](Act1_missing)
-34. [Rumbling heard after MB-DELTA toppled over](Act1_RumblingheardafterMB-DELTAtoppledover)
+32. [Rumbling heard after MB-DELTA toppled over](Act1_RumblingheardafterMB-DELTAtoppledover)
+33. [Talking with spire ended shortly](Act1_Talkingwithspireendedshortly)
+34. [missing](Act1_missing)
 35. [rescue](Act1_rescue)
 36. [adminspace](Act1_adminspace)
 37. [Elsewhere](Act1_Elsewhere)
 
+
 ### Part 3
+
 38. [investigation 5 moon shedding](Act1_investigation5moonshedding)
 39. [Moonfall](Act1_Moonfall)
 40. [backtoadminspace](Act1_backtoadminspace)

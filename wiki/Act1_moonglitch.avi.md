@@ -3,11 +3,11 @@ published: true
 ---
 
 # moonglitch.avi
-**Post Date** : 2021-10-23
+**Post Date** : 2021-10-29
 <br>**Channel**: [mark101](channel_mark101)
 <br>**Minecraft Version**: Minecraft Alpha v1.0.7
 <br>**Length**: 3:38
-<br>**FPS**: 30
+<br>**FPS**: 23.96
 <br>**Resolution**: 854x454
 <br>**Video type**: Public 
 <br>**Act**: 1
@@ -21,7 +21,7 @@ published: true
 file last modified: 7-20-2010
 <br><br>moon void
 
-## Anomalies
+## Events/Anomalies
 - [3:04](https://youtu.be/0qkh6vredyo?t=184): Render distance wont change, its stuck to Tiny.
 - [3:30](https://youtu.be/0qkh6vredyo?t=210): Music starts playing when unpaused.
 - [3:35](https://youtu.be/0qkh6vredyo?t=215): Moon texture is completely black, it appears to be missing.

@@ -17,7 +17,7 @@ Its not a fun channel anymore. Its a group to rage against those who arent from 
 <br>https://www.youtube.com/channel/UCT7kEX0Q86Fv4TKCJf3xqIg
 
 ## Channel Icon
-<img width="80" src="assets\images\mark101-channelicon.jpg">
+<img width="80" src="assets/images/mark101-channelicon.jpg">
 
 ## Episodes hosted on the Channel
 Act 1, 01. [?yoUjusTdonTknoW](Act1_%253FyoUjusTdonTknoW)
@@ -33,11 +33,11 @@ Act 1, 01. [?yoUjusTdonTknoW](Act1_%253FyoUjusTdonTknoW)
 <br>Act 1, 11. [High quality version of Void Footage](Act1_HighqualityversionofVoidFootage)
 <br>Act 1, 12. [the investigation part 1 (fixed reupload)](Act1_theinvestigationpart1fixedreupload)
 <br>Act 1, 13. [the investigation part 4](Act1_theinvestigationpart4)
-<br>Act 1, 14. [in my home collage](Act1_inmyhomecollage)
-<br>Act 1, 15. [world4 is good, world3 is bad.](Act1_world4isgoodworld3isbad)
-<br>Act 1, 16. [instructed](Act1_instructed)
+<br>Act 1, 14. [outside of the skybox lies the ultimate truth of th](Act1_outsideoftheskyboxliestheultimatetruthofth)
+<br>Act 1, 15. [in my home collage](Act1_inmyhomecollage)
+<br>Act 1, 16. [world4 is good, world3 is bad.](Act1_world4isgoodworld3isbad)
 <br>Act 1, 17. [third world](Act1_thirdworld)
-<br>Act 1, 18. [outside of the skybox lies the ultimate truth of th](Act1_outsideoftheskyboxliestheultimatetruthofth)
+<br>Act 1, 18. [instructed](Act1_instructed)
 <br>Act 1, 19. [unused3](Act1_unused3)
 <br>Act 1, 20. [Minecraft VoidExp v0.0.1 - calm5.ogg](Act1_MinecraftVoidExpv0.0.1calm5.ogg)
 <br>Act 1, 21. [demo01](Act1_demo01)
@@ -48,8 +48,8 @@ Act 1, 01. [?yoUjusTdonTknoW](Act1_%253FyoUjusTdonTknoW)
 <br>Act 1, 29. [Revolt](Act1_Revolt)
 <br>Act 1, 30. [What happened after the attacks on the moon?](Act1_Whathappenedaftertheattacksonthemoon)
 <br>Act 1, 31. [00071](Act1_00071)
-<br>Act 1, 32. [Talking with spire ended shortly](Act1_Talkingwithspireendedshortly)
-<br>Act 1, 33. [missing](Act1_missing)
+<br>Act 1, 33. [Talking with spire ended shortly](Act1_Talkingwithspireendedshortly)
+<br>Act 1, 34. [missing](Act1_missing)
 <br>Act 1, 35. [rescue](Act1_rescue)
 <br>Act 1, 36. [adminspace](Act1_adminspace)
 <br>Act 1, 38. [investigation 5 moon shedding](Act1_investigation5moonshedding)
@@ -71,4 +71,4 @@ Minecraft Alpha Gameplay
 Watch my Alpha 1.0.7 Video
 
 ### Original Icon
-<img width="80" src="assets\images\mark101-channeloldicon.jpg">
+<img width="80" src="assets/images/mark101-channeloldicon.jpg">

@@ -28,7 +28,8 @@ file last modified: 7-23-2010
 <br><br><br>DESC, trustred 
 <br>uoYlliWeeSs'kraMettiLdneirF.
 
-## Anomalies
+## Events/Anomalies
+- [5:34](https://youtu.be/EOt5IQI3VlY?t=334): Sheep disappears
 - [6:07](https://youtu.be/EOt5IQI3VlY?t=367): Render distances gradually changes to Tiny and strange noises start playing.
 - [6:17](https://youtu.be/EOt5IQI3VlY?t=377): Video cuts off
 
